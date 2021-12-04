@@ -1,0 +1,14 @@
+C:\Users\enmalikara\source\repos\QuizApplication\bin\Debug\netcoreapp3.1\QuizApplication.exe
+C:\Users\enmalikara\source\repos\QuizApplication\bin\Debug\netcoreapp3.1\QuizApplication.deps.json
+C:\Users\enmalikara\source\repos\QuizApplication\bin\Debug\netcoreapp3.1\QuizApplication.runtimeconfig.json
+C:\Users\enmalikara\source\repos\QuizApplication\bin\Debug\netcoreapp3.1\QuizApplication.runtimeconfig.dev.json
+C:\Users\enmalikara\source\repos\QuizApplication\bin\Debug\netcoreapp3.1\QuizApplication.dll
+C:\Users\enmalikara\source\repos\QuizApplication\bin\Debug\netcoreapp3.1\QuizApplication.pdb
+C:\Users\enmalikara\source\repos\QuizApplication\obj\Debug\netcoreapp3.1\QuizApplication.csproj.AssemblyReference.cache
+C:\Users\enmalikara\source\repos\QuizApplication\obj\Debug\netcoreapp3.1\QuizApplication.AssemblyInfoInputs.cache
+C:\Users\enmalikara\source\repos\QuizApplication\obj\Debug\netcoreapp3.1\QuizApplication.AssemblyInfo.cs
+C:\Users\enmalikara\source\repos\QuizApplication\obj\Debug\netcoreapp3.1\QuizApplication.csproj.CoreCompileInputs.cache
+C:\Users\enmalikara\source\repos\QuizApplication\obj\Debug\netcoreapp3.1\QuizApplication.dll
+C:\Users\enmalikara\source\repos\QuizApplication\obj\Debug\netcoreapp3.1\QuizApplication.pdb
+C:\Users\enmalikara\source\repos\QuizApplication\obj\Debug\netcoreapp3.1\QuizApplication.genruntimeconfig.cache
+C:\Users\enmalikara\source\repos\QuizApplication\obj\Debug\netcoreapp3.1\QuizApplication.GeneratedMSBuildEditorConfig.editorconfig
